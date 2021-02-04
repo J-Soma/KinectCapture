@@ -1,7 +1,7 @@
 ﻿
 namespace KinectCapture
 {
-    partial class CaptureWindow
+    partial class VentanaCaptura
     {
         /// <summary>
         /// Variable del diseñador necesaria.

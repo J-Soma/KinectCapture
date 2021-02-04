@@ -13,14 +13,14 @@ using Coding4Fun.Kinect.WinForm;
 
 namespace KinectCapture
 {
-    public partial class CaptureWindow : Form
+    public partial class VentanaCaptura : Form
     {
         private KinectSensor kinectSensor;
 
         bool capturando = false;
         bool sensorConectado = false;
 
-        public CaptureWindow()
+        public VentanaCaptura()
         {
             InitializeComponent();
         }
